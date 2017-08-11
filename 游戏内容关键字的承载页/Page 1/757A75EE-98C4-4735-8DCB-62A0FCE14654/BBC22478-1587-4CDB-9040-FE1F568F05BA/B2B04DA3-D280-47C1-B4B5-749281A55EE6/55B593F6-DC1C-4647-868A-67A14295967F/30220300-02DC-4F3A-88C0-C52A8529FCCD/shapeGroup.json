@@ -1,0 +1,99 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "30220300-02DC-4F3A-88C0-C52A8529FCCD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 10.99999999999997,
+    "width": 67,
+    "x": 0,
+    "y": 8.999999999999986
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "2E1FBF1D-1A4F-4122-8593-F936D03B1AC0"
+    },
+    {
+      "class": "oval",
+      "id": "2E19D8A3-0E4C-4C45-997C-D08FB70625A3"
+    },
+    {
+      "class": "oval",
+      "id": "80FAEDB4-F311-41B9-939E-1D01B547BAF9"
+    },
+    {
+      "class": "oval",
+      "id": "119D5F7C-7B73-4918-A820-8F78A93B174F"
+    },
+    {
+      "class": "oval",
+      "id": "EF3F06F6-2518-49DF-8A10-B187411C125A"
+    }
+  ],
+  "name": "Oval 1",
+  "nameIsFixed": false,
+  "originalObjectID": "B74800FB-1704-47ED-8DD7-81ADF18623DD",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

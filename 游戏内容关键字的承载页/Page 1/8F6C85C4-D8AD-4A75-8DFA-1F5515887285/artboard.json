@@ -1,0 +1,141 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "do_objectID": "8F6C85C4-D8AD-4A75-8DFA-1F5515887285",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2658,
+    "width": 750,
+    "x": 647,
+    "y": -985
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      24
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "01C3D649-0A1D-4B78-9DE0-DAE1767956CE"
+    },
+    {
+      "class": "group",
+      "id": "A2D930A4-0370-432E-A7FC-9577DB707036"
+    },
+    {
+      "class": "group",
+      "id": "DC99B928-6183-4D10-9169-62353E631895"
+    },
+    {
+      "class": "group",
+      "id": "3353849C-1245-4560-A671-FEF610A5CED2"
+    },
+    {
+      "class": "group",
+      "id": "52B2936C-1A1D-45EF-8C11-161D088B4C4E"
+    },
+    {
+      "class": "group",
+      "id": "99A34122-0640-434B-AE4E-3E20E982F1A1"
+    },
+    {
+      "class": "group",
+      "id": "38287A72-EE27-4617-BB78-966A8FEAF9DE"
+    },
+    {
+      "class": "group",
+      "id": "1F2ABA01-41FF-4B45-901E-4B9568659BBD"
+    }
+  ],
+  "name": "游戏内容关键字的承载页 定稿 copy",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      2688
+    ]
+  }
+}
